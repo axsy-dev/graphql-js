@@ -35,6 +35,7 @@ export { graphql, graphqlSync } from './graphql';
 export {
   // Definitions
   GraphQLSchema,
+  AsyncGraphQLSchema,
   GraphQLDirective,
   GraphQLScalarType,
   GraphQLObjectType,
